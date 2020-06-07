@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="reset">RESET</string>
+    <string name="player_1">Player 1 : 0</string>
+    <string name="player_2">Player 2 : 0</string>
+    <string name="new_game">NEW GAME</string>
+</resources>
